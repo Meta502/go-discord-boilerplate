@@ -8,8 +8,8 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/Meta502/go-discord-pingpong/src/constants"
-	"github.com/Meta502/go-discord-pingpong/src/env"
+	"github.com/Meta502/go-discord-boilerplate/src/constants"
+	"github.com/Meta502/go-discord-boilerplate/src/env"
 	"github.com/bwmarrin/discordgo"
 )
 

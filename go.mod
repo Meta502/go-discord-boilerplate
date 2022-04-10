@@ -1,4 +1,4 @@
-module github.com/Meta502/go-discord-pingpong
+module github.com/Meta502/go-discord-boilerplate
 
 go 1.18
 
